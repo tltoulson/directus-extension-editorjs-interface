@@ -5,7 +5,7 @@ import WarningTool from '@editorjs/warning';
 import ChecklistTool from '@editorjs/checklist';
 import DelimiterTool from '@editorjs/delimiter';
 import TableTool from '@editorjs/table';
-import CodeTool from '@editorjs/code';
+import CodeMirrorTool from '@tltoulson/editorjs-codemirror';
 import HeaderTool from '@editorjs/header';
 import UnderlineTool from '@editorjs/underline';
 import EmbedTool from '@editorjs/embed';
@@ -63,7 +63,7 @@ export default function getTools(
 			inlineToolbar: true,
 		},
 		code: {
-			class: CodeTool,
+			class: CodeMirrorTool,
 		},
 		warning: {
 			class: WarningTool,

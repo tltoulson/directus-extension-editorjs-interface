@@ -2,6 +2,8 @@
 
 Block-styled editor for rich media stories, outputs clean data in JSON. More info at https://editorjs.io/
 
+This fork replaces the Code tool with a CodeMirror 6 editor.
+
 ![](https://raw.githubusercontent.com/dimitrov-adrian/directus-extension-editorjs-interface/main/screenshot.png)
 
 ## Installation
