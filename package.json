@@ -1,6 +1,6 @@
 {
   "name": "@tltoulson/directus-extension-editorjs",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "author": {
     "email": "tltoulson@gmail.com",
     "name": "Travis Toulson"
@@ -53,7 +53,7 @@
     "@editorjs/underline": "^1.0.0",
     "@editorjs/warning": "^1.2.0",
     "@itech-indrustries/editorjs-strikethrough": "^1.0.0",
-    "@tltoulson/editorjs-codemirror": "^0.1.1",
+    "@tltoulson/editorjs-codemirror": "^0.1.2",
     "directus-codestyle": "dimitrov-adrian/directus-codestyle",
     "editorjs-alert": "^1.0.3",
     "editorjs-list": "^2.1.4",
